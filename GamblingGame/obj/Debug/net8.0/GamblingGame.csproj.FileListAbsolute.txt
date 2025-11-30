@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\bin\Debug\net8.0\GamblingGame.exe
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\bin\Debug\net8.0\GamblingGame.deps.json
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\bin\Debug\net8.0\GamblingGame.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\bin\Debug\net8.0\GamblingGame.dll
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\bin\Debug\net8.0\GamblingGame.pdb
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.dll
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\refint\GamblingGame.dll
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.pdb
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\GamblingGame.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\GamblingGame\GamblingGame\obj\Debug\net8.0\ref\GamblingGame.dll
